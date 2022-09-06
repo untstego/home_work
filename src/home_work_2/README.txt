@@ -18,9 +18,8 @@
 		2.3.4 Использование цикла ForEachOperation — ForEachOperation.java
 	2.4 Задачи из презентации — ArrayTasksFromPresentation.java
 
-3. Блок-схема алгоритма пузырьковой сортировки — 
+3. Блок-схема алгоритма пузырьковой сортировки — Bubble_sorting_scheme.pdf && Bubble_sorting_scheme.drawio
 
 4. Сортировки — пакет sorts
-	4.1 Создание класса SortUtils —
-
-	4.2 Создание класса SortMain —
+	4.1 Создание класса SortUtils — SortUtils.java
+	4.2 Создание класса SortMain — SortMain.java
