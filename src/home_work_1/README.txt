@@ -9,7 +9,7 @@
 	4.5 Буква или иной символ — LetterOrOtherSymbol.java
 	4.6 Определить високосный год или нет — LeapYear.java
 5. Создание статического метода sleepIn — SleepIn.java
-6. Общение с Василием и Анастасией — пакет home_work_1.names.
+6. Общение с Василием и Анастасией — пакет home_work_1.names
 	6.1. Логика if-else — NamesIfElse.java
 	6.2. Логика if-else-if — NamesIfElseIf.java
 	6.3. Логика switch — NamesSwitch.java

@@ -14,7 +14,7 @@ public class BytesToKilobytes {
      * Метод получает количество байт и возвращает соответствущее количество килобайт
      */
     public static long byteToKilobyte(long bytes) {
-        return bytes / 1024;
+        return bytes / 1000;
     }
 
 
@@ -22,7 +22,7 @@ public class BytesToKilobytes {
      * Метод получает количество килобайт и возвращает соответствущее количество байт
      */
     public static long kilobyteToByte(long kilobytes) {
-        return kilobytes * 1024;
+        return kilobytes * 1000;
     }
 
 
